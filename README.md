@@ -1,3 +1,4 @@
+
 [![Build status](https://ci.appveyor.com/api/projects/status/hmwh3oismpset4m3/branch/master?svg=true)](https://ci.appveyor.com/project/chrisevett/nugetclient/branch/master)
 # nugetclient Cookbook
 
@@ -35,3 +36,5 @@ Pull requests welcome.
 
 ## License and Authors
 MIT
+
+## Test edit
